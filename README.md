@@ -1,7 +1,7 @@
 ## Project Overview
 
 This project builds a mini **options market for footballers**.  
-Each player is treated like a financial asset:
+Each of the 25 players is treated like a financial asset:
 
 - `value` = current market value (from Transfermarkt)
 - `sigma` = annualised volatility of the player’s value
